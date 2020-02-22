@@ -1,0 +1,4 @@
+#Sat Feb 02 10:34:47 EST 2019
+base.0=C\:\\Users\\klal1\\Dropbox\\UB\\Sem 2\\DS-CSE586\\PA1\\SimpleMessenger\\SimpleMessenger\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
